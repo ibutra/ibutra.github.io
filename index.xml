@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stefan&#39;s Blog</title>
+    <link>http://ibutra.com/</link>
+    <description>Recent content on Stefan&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Feb 2018 19:53:21 +0100</lastBuildDate>
+    
+	<atom:link href="http://ibutra.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Home</title>
+      <link>http://ibutra.com/home/</link>
+      <pubDate>Wed, 07 Feb 2018 19:53:21 +0100</pubDate>
+      
+      <guid>http://ibutra.com/home/</guid>
+      <description>Here I collect my ramblings and thoughs</description>
+    </item>
+    
+    <item>
+      <title>License</title>
+      <link>http://ibutra.com/license/</link>
+      <pubDate>Wed, 07 Feb 2018 19:51:18 +0100</pubDate>
+      
+      <guid>http://ibutra.com/license/</guid>
+      <description>Impressum Angaben gemäß § 5 TMG
+Stefan Rakel
+Kontakt: E-Mail: stefan.rakel@googlemail.com
+Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV: Stefan Rakel
+Haftungsausschluss:
+Haftung für Inhalte
+Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://ibutra.com/about/</link>
+      <pubDate>Wed, 07 Feb 2018 19:50:12 +0100</pubDate>
+      
+      <guid>http://ibutra.com/about/</guid>
+      <description>I am currently a PhD student at the chair for embedded systems1 at the RWTH Aachen University2
+ http://embedded.rwth-aachen.de [return] http://www.rwth-aachen.de [return]   </description>
+    </item>
+    
+  </channel>
+</rss>
