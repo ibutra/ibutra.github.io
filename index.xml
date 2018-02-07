@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stefan&#39;s Blog</title>
-    <link>http://ibutra.com/</link>
+    <link>http://blog.ibutra.com/</link>
     <description>Recent content on Stefan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 07 Feb 2018 19:53:21 +0100</lastBuildDate>
     
-	<atom:link href="http://ibutra.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.ibutra.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Home</title>
-      <link>http://ibutra.com/home/</link>
+      <link>http://blog.ibutra.com/home/</link>
       <pubDate>Wed, 07 Feb 2018 19:53:21 +0100</pubDate>
       
-      <guid>http://ibutra.com/home/</guid>
+      <guid>http://blog.ibutra.com/home/</guid>
       <description>Here I collect my ramblings and thoughs</description>
     </item>
     
     <item>
       <title>License</title>
-      <link>http://ibutra.com/license/</link>
+      <link>http://blog.ibutra.com/license/</link>
       <pubDate>Wed, 07 Feb 2018 19:51:18 +0100</pubDate>
       
-      <guid>http://ibutra.com/license/</guid>
+      <guid>http://blog.ibutra.com/license/</guid>
       <description>Impressum Angaben gemäß § 5 TMG
 Stefan Rakel
 Kontakt: E-Mail: stefan.rakel@googlemail.com
@@ -37,10 +37,10 @@ Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Rich
     
     <item>
       <title>About</title>
-      <link>http://ibutra.com/about/</link>
+      <link>http://blog.ibutra.com/about/</link>
       <pubDate>Wed, 07 Feb 2018 19:50:12 +0100</pubDate>
       
-      <guid>http://ibutra.com/about/</guid>
+      <guid>http://blog.ibutra.com/about/</guid>
       <description>I am currently a PhD student at the chair for embedded systems1 at the RWTH Aachen University2
  http://embedded.rwth-aachen.de [return] http://www.rwth-aachen.de [return]   </description>
     </item>
